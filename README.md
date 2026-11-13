@@ -1,5 +1,3 @@
-# Kenny Richardson — AI Portfolio
-
 A responsive, static portfolio website built with **HTML, CSS, and vanilla JavaScript**. It uses a crimson, charcoal, and creamy-white visual system with subtle sci-fi motifs, responsive project cards, a theme toggle, and a rule-based portfolio assistant.
 
 ## Run locally
@@ -39,18 +37,6 @@ Edit `knowledge` and `rules` in `script.js` to add intents, aliases, or new resp
 - [ ] Replace the CSS-built project previews with real screenshots when available.
 - [ ] Update the stack list to reflect current, defensible skills.
 - [ ] Add a verified contact method if you want one public.
-
-## Project structure
-
-```text
-kenny-ai-portfolio/
-├── index.html
-├── styles.css
-├── script.js
-├── assets/
-│   └── favicon.svg
-└── README.md
-```
 
 ## Design notes
 
